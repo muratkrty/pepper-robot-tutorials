@@ -5,22 +5,21 @@ In this workshop, we will present the humanoid robot simulators for designing ex
 
 ## qiBullet 
 qiBullet is a customized simulation environment for the Pepper and Nao robots based on the [Bullet](https://pybullet.org/wordpress/) physic engine.  
-   * [A walk-trough qiBullet installation guide](https://scm.cms.hu-berlin.de/adapt/robot-programming-intro/-/wikis/qiBullet-installation)
-   * [A walk-trough tutorial to spawn the Pepper and Nao robot in the simulator](https://scm.cms.hu-berlin.de/adapt/robot-programming-intro/-/wikis/Spawn-the-robots-in-qibullet)  
-   * [A tutorial for the Pepper robot sensory reading and visualization](https://scm.cms.hu-berlin.de/adapt/robot-programming-intro/-/wikis/Pepper-robot-sensors)
-   * [A tutorial for the Pepper robot's joints](https://scm.cms.hu-berlin.de/adapt/robot-programming-intro/-/wikis/Pepper-robot-joints)
-   * A tutorial for single-arm motor babbling experiment
-   * A tutorial for single-arm motor babbling experiment with ROS interface
+   * [A walk-trough qiBullet installation guide](https://github.com/muratkrty/pepper-robot-tutorials/blob/master/qiBullet-tutorials/qiBullet-installation.md)
+   * [A walk-trough tutorial to spawn the Pepper and Nao robot in the simulator](https://github.com/muratkrty/pepper-robot-tutorials/blob/master/qiBullet-tutorials/Spawn-the-robots-in-qibullet.md)  
+   * [A tutorial for the Pepper robot sensory reading and visualization](https://github.com/muratkrty/pepper-robot-tutorials/blob/master/qiBullet-tutorials/Pepper-robot-sensors.md)  
+   * [A tutorial for the Pepper robot's joints](https://github.com/muratkrty/pepper-robot-tutorials/blob/master/qiBullet-tutorials/Pepper-robot-joints.md)  
+   * A tutorial for single-arm motor babbling experiment  
+   * A tutorial for single-arm motor babbling experiment with ROS interface  
 
 ## Gazebo/ROS
 * TBD
 
 ## Choregraphe
-   * [A short installation tutorial for Choregraphe](https://scm.cms.hu-berlin.de/adapt/robot-programming-intro/-/wikis/Choregraphe-installation-(Linux))
+   * [A short installation tutorial for Choregraphe](https://github.com/muratkrty/pepper-robot-tutorials/blob/master/qiBullet-tutorials/Choregraphe-installation-(Linux).md)
 
 ## Webots
-   * [A short installation tutorial for Webots](https://scm.cms.hu-berlin.de/adapt/robot-programming-intro/-/wikis/Webots-installation-(Linux))
-   * [WIP: Webots General (official) Tutorials](Wir werden weitere Einzelheiten Themen besprechen und auf offene Frage eingehen.)
+   * [A short installation tutorial for Webots](https://github.com/muratkrty/pepper-robot-tutorials/blob/master/qiBullet-tutorials/Webots-installation-(Linux).md)
 
 # References
 [1] Goswami, A., & Vadakkepat, P. (Eds.). (2019). Humanoid robotics: A reference (pp. 55-368). Springer.
