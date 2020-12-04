@@ -40,3 +40,10 @@ Note that installing pybullet and opencv might take a couple of minutes.
         $ python pepper_basic.py 
     ```
     You should see a pepper robot in an empty world. 
+    
+## Demos with the Pepper robot
+To run the demos below, you must activate **mlrDemos** virtual environment by: workon mlrDemos
+1. To spawn the pepper and nao robots: **python pepper_nao_spawn.py**
+2. To read RGB cameras and dept sensor data: **python pepper_camera.py**
+3. To list the pepper robot joint and their range: **python pepper_joint_info.py**
+4. To randomly move the joints while reading top camera images: **pepper_joint_control.py**
