@@ -1,4 +1,4 @@
-# install-qi-bullet
+# install-qibullet
 To follow the tutorials for the seminar lecture you may need
 * experience in one of GNU/Linux distributions and basic terminal commands
 * experience in software development tools and libraries: OpenCV, Git, TensorFlow.
@@ -23,10 +23,10 @@ To follow the tutorials for the seminar lecture you may need
     (mlrDemos) murat@scioi::mlr-qiBullet$ pip install tensorflow                 # optional
     (mlrDemos) murat@scioi::mlr-qiBullet$ pip install opencv-contrib-python      # optional
     ```
-Note that installing pybullet and opencv might take a couple of minutes. 
-4. List the installed packages in your virtual environment by typing: pip list
+Note that installing pybullet and opencv might take a couple of minutes.   
+4. List the installed packages in your virtual environment by typing: pip list  
 5. Download the qiBullet examples manualy from the [GitHub repository](https://github.com/softbankrobotics-research/qibullet/tree/master/examples), or alternatively, clone the whole qiBullet repository:  
-
+5.1 Read [tldr version](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)) of the Apache Licence v2 requirements.  
          $ git clone https://github.com/softbankrobotics-research/qibullet.git
 6. List the example demos in the example file changing your working directory to the location of you examples, e.g., `qiBullet/examples` if you cloned the qiBullet repository:
 
@@ -46,4 +46,4 @@ To run the demos below, you must activate **mlrDemos** virtual environment by: w
 1. To spawn the pepper and nao robots: **python pepper_nao_spawn.py**
 2. To read RGB cameras and dept sensor data: **python pepper_camera.py**
 3. To list the pepper robot joint and their range: **python pepper_joint_info.py**
-4. To randomly move the joints while reading top camera images: **pepper_joint_control.py**
+4. To randomly move the joints while reading top camera images: **python pepper_joint_control.py**
