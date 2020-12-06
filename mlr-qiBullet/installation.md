@@ -26,8 +26,11 @@ To follow the tutorials for the seminar lecture you may need
 Note that installing pybullet and opencv might take a couple of minutes.   
 4. List the installed packages in your virtual environment by typing: pip list  
 5. Download the qiBullet examples manualy from the [GitHub repository](https://github.com/softbankrobotics-research/qibullet/tree/master/examples), or alternatively, clone the whole qiBullet repository:  
-5.1 Read [tldr version](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)) of the Apache Licence v2 requirements.  
+Read [tldr version](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)) of the Apache Licence v2 requirements, before cloning the repository  
+
+	```shell
          $ git clone https://github.com/softbankrobotics-research/qibullet.git
+     ```	 
 6. List the example demos in the example file changing your working directory to the location of you examples, e.g., `qiBullet/examples` if you cloned the qiBullet repository:
 
         $ cd qibullet/examples
