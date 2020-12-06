@@ -6,7 +6,7 @@ To follow the tutorials for the seminar lecture you may need
 * lecture slides of the week 6
 
 ----
-## A. Setting up the virtual environment
+
 1. Follow the intsruction in [this link](https://virtualenvwrapper.readthedocs.io/en/latest/index.html) to install and configure **mkvirtualenv** in your debian-based Linux distro. Here we will use Ubuntu 18.04 LTS for running qiBullet demos.
 2. Create a virtual enviornment by typing 
     ```shell
